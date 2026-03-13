@@ -1,5 +1,5 @@
 # BlueMan Wind
-
+Consider this my attempt against microslop's awful bluetooth implementation 
 **BlueMan Wind** is a Windows Bluetooth management utility designed to provide deeper control over Bluetooth devices than the default Windows interface.
 
 It supports scanning, pairing, unpairing, battery monitoring, and BLE/GATT inspection through a command-line interface built on top of Windows WinRT APIs and BLE tooling.
